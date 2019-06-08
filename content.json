@@ -1,0 +1,198 @@
+{
+    "labelAmountPerServing": {
+        "th": "คุณค่าทางโภชนาการต่อหนึ่งหน่วยบริโภค",
+        "en": "Amount Per Serving"
+    },
+    "labelDailyValue": {
+        "th": "ร้อยละของปริมาณที่แนะนำต่อวัน",
+        "en": "% Daily Value*"
+    },
+    "popupIntroduction": {
+        "label": {
+            "th": "ข้อมูลโภชนาการ",
+            "en": "Nutrition Facts"
+        },
+        "description": {
+            "th": "<br><br><p>หลายคนอาจไม่ได้สนใจกับการอ่านฉลากโภชนาการแต่รู้หรือไม่ว่าการอ่านข้อมูลฉลากโภชนาการนี้ก็สามารถช่วยหลายคนในการเลือกรับประทานอาหารที่มีประโยชน์หรือเหมาะกับสภาวะของร่างกายของตนได้ ข้อมูลต่อไปนี้จะช่วยให้คุณผู้อ่านสามารถที่จะเข้าใจอย่างลึกซึ้งยิ่งขึ้นถึงข้อมูลที่อยู่ในแต่ละส่วนของฉลากโภชนาการอาหาร โดยที่ข้อมูลของฉลากโภชนาการที่เราใช้นี้นำมาจากข้อมูลของไอศกรีม Ben & Jerry’s</p><br>",
+            "en": "<br><br><p>While some people cannot see the importance of reading Nutrition Facts labels, some people actually use this information to make healthier eating choices. The following label-building skills are intended to make it easier and faster to identify a healthy diet. The additional facts that are provided in each section are intended to provide insights into all the nutrients on the nutrition label. The information on the Nutrition Facts label below is based on Ben&Jerry’s ice-cream.</p><br>"
+        }
+    },
+    "popupServingsize": {
+        "label": {
+            "first": {
+                "th": "หนึ่งหน่วยบริโภค 1/2 ถ้วย (107 ก.)",
+                "en": "Serving Size 1/2 cup (107g)"    
+            },
+            "second": {
+                "th": "จำนวนหน่วยบริโภคต่อถ้วย: 4",
+                "en": "Servings Per Container: 4"    
+            }
+        },
+        "description": {
+            "th": "<h2>หน่วยบริโภค</h2><p>ปริมาณของหน่วยบริโภคจะบอกจำนวนการรับประทานต่อครั้ง โดยจะแสดงเป็นรายการค่าพลังงานและสารอาหารบนฉลาก มีการจัดทำเป็นค่ามาตรฐานเพื่อให้ง่ายต่อการคำนวณ โดยจะเปรียบเทียบจากชนิดอาหารที่ใกล้เคียงกัน</p><br><b>จำนวนหน่วยบริโภคต่อบรรจุภัณฑ์</b><br><p>ค่านี้จะแสดง จำนวนการบริโภคต่อบรรจุภัณฑ์โดยคำนวณจากหนึ่งหน่วยบริโภค ตัวอย่างเช่น ไอศกรีม เบน แอนด์ เจอร์รี่ มีปริมาณ 425 กรัม ปริมาณการรับประทานต่อครั้ง คือ ครึ่งถ้วย หรือหนึ่งหน่วยบริโภคเท่ากับ 107 กรัม ฉะนั้น 1 ถ้วยของไอศกรีมจะแบ่งทานได้ 4 ครั้ง จึงเป็น จำนวน 4 หน่วยบริโภคต่อบรรจุภัณฑ์ (425 g/107g = 4 ) นั่นก็หมายความว่าทุกๆค่าสารอาหารที่แสดงบนฉลากนี้คูณด้วย 4 จึงจะเป็นค่าของสารอาหารทั้งหมดที่ได้รับต่อ 1 บรรจุภัณฑ์</p>",
+            "en": "<h2>Serving Size</h2><p>The serving size will tell you the amount of portion represented by calories and nutrients listed on the label. They are usually standardized units to make it easier to compare portions of similar types of foods.</p><br><b>Serving per container</b><br><p>This number represents the number of servings per container based on serving size. For example the serving size of this Ben&Jerry ice-cream is ½ cup (107g), and the total size of this ice-cream is 425g. Therefore, the serving per container is approximately 4 (425g/107g). This means that every value of the nutrients on this label need to be multiplied by 4 to get the total amount of nutrients per container.</p>"
+        }        
+    },
+    "popupCalories": {
+        "label": {
+            "left": {
+                "th": "<b>พลังงานทั้งหมด</b> 300",
+                "en": "<b>Calories</b> 300"    
+            },
+            "right": {
+                "th": "พลังงานจากไขมัน 180",
+                "en": "Calories from Fat 180"    
+            }
+        },
+        "description": {
+            "th": "<h2>แคลอรี่</h2><p>แคลอรี่จะเป็นหน่วยที่บอกค่าพลังงานที่ผู้บริโภคได้รับจากการรับประทานต่อครั้ง เพื่อให้ผู้บริโภคสามารถควบคุมพลังงานที่ได้รับและค่าน้ำหนักที่จะตามมาได้ ถ้าต้องการคงน้ำหนักเดิมเอาไว้ โดยเฉลี่ยแล้วผู้หญิงต้องการพลังงานต่อวันที่ 2000 แคลอรี่ และผู้ชายต้องการพลังงานต่อวันที่ 2500 แคลอรี่ โดยมีปัจจัยอื่นที่ร่วมด้วยเช่น เพศ อายุ น้ำหนัก ส่วนสูงและระดับการทำกิจกรรม</p><br>เพื่อความแม่นยำขึ้น คุณสามารถคำนวณแคลอรี่ที่ได้รับต่อวันดังนี้<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>เพศชาย:</b> 66.5 + 13.8 x (น้ำหนักเป็นกิโลกรัม) + 5 x (ส่วนสูงเป็นซม.) + 6.8 x อายุ<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>เพศหญิง:</b> 655.1 + 9.6 x (น้ำหนักเป็นกิโลกรัม) + 1.9 x (ส่วนสูงเป็นซม.) + 4.7 x อายุ<br><br>จากนั้นคูณด้วยค่าระดับการใช้พลังงาน :<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>เคลื่อนไหวน้อย</b> : 1.2<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>เคลื่อนไหวปานกลาง</b> : 1.3<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>เคลื่อนไหวมาก</b> : 1.4<br><br>ตัวอย่าง:<br>&nbsp;&nbsp;&nbsp;&nbsp;655.1 + 9.6 x (48) + 1.9 x (155) + 4.7 x 17<br>&nbsp;&nbsp;&nbsp;&nbsp;= (1115.9 + 294.5 + 79.9) x 1.3<br>&nbsp;&nbsp;&nbsp;&nbsp;= 1,937.39 แคลอรี่",
+            "en": "<h2>Calories</h2> <p>Calories tell how much energy the consumer gets from one serving, which can help you manage your energy intake and consequently weight. To maintain your current weight, on average women need about 2000 calories and men need about 2500 calories. There are also other factors that influence your total calories intake such as gender, age, weight, height, and your activity levels.</p><br>More precisely, you can use this equation to help you find your calories intake per day: <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>Male:</b> 66.5 + 13.8 x (Weight in kg) + 5 x (Height in cm) + 6.8 x age<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>Female:</b> 655.1 + 9.6 x (Weight in kg) + 1.9 x (Height in cm) + 4.7 x age<br><br>Then multiply by energy factor:<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>Sedentary</b> : 1.2<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>Moderately active</b> : 1.3<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>Active</b> : 1.4<br><br>Example:<br>&nbsp;&nbsp;&nbsp;&nbsp;655.1 + 9.6 x (48) + 1.9 x (155) + 4.7 x 17<br>&nbsp;&nbsp;&nbsp;&nbsp;= (1115.9 + 294.5 + 79.9) x 1.3<br>&nbsp;&nbsp;&nbsp;&nbsp;= 1,937.39 calories"
+        }
+    },
+    "popupFootnotes": {
+        "label": {
+            "th": "*ร้อยละของปริมาณสารอาหารที่แนะนำให้บริโภคต่อวันสำหรับคนไทยอายุตั้งแต่ 6 ปีขึ้นไป โดยคิดจากความต้องการพลังงานวันละ 2000 กิโลแคลอรี่",
+            "en": "*Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs:"
+        },
+        "description": {
+            "th": "<h2>ปริมาณที่แนะนำต่อวัน + ตารางหมายเหตุ</h2><p>ปริมาณที่แนะนำต่อวัน คือ ปริมาณของสารอาหารต่อการบริโภค 1 ครั้ง โดยอิงจากค่าเฉลี่ยที่คนต้องการสารอาหารต่อวัน %ของปริมาณที่ควรได้รับต่อวันนั้น บอกค่าว่าที่ผู้บริโภคทานเข้าไปคิดเป็นร้อยละเท่าไรของพลังงานที่ต้องการต่อวัน 2000 แคลอรี่</p><br><p>ตารางหมายเหตุ แสดงค่าปริมาณสารอาหารที่ควรได้รับต่อวันที่ 100% ของ 2000 แคลอรี่และ 2500 แคลอรี่ ตัวอย่างเช่น ไอศกรีมเบน แอนด์เจอร์รี่ ระบุในตารางโภชนาการว่ามีใยอาหาร 2 กรัมต่อหนึ่งหน่วยบริโภค โดยที่ในหนึ่งวันเราต้องการใยอาหาร 25 กรัม (100%ของปริมาณที่แนะนำต่อวัน) ดังนั้นใยอาหาร 2 กรัม จึงคิดเป็น 8% ของปริมาณที่แนะนำต่อวัน ยังเหลืออีก 23 กรัมที่ร่างกายต้องการ (92%ของปริมาณที่แนะนำต่อวัน) โดยคิดจากพลังงานต่อวันที่ 2000 แคลอรี่</p><br><div class='img-container'><img src='/footnotes.png'/><span class='subscribe'>U.S. Food and Drug Administration, FDA. Image of Footnotes “Labeling & Nutrition -How to Understand and Use the Nutrition Facts Label.” US Food and Drug Administration Home Page, Center for Drug Evaluation and Research, 1 Mar. 2018, www.fda.gov/food/labelingnutrition/ucm274593.htm.</span></div><br><p>ในแต่ละประเทศจะมีค่ามาตรฐานของปริมาณที่ต้องการต่อวันต่างกัน และมีชื่อเรียกต่างกัน อย่างในประเทศไทยเรียกว่า Thai RDI (Thai Recommended Intake) หรือ ค่าสารอาหารที่แนะนำให้บริโภคประจำวันสำหรับคนไทยอายุตั้งแต่ 6 ปีขึ้นไป</p>",
+            "en": "<h2>Daily Value + Footnotes</h2><p>Daily Value (DV) is the amount of nutrition per one serving that an average person needs per day. %DVs are based on a 2,000 calorie diet which helps consumers to determine how much (in percentage) a serving of the product is needed to reach the DV.</p><br><p>The footnotes show the percent Daily Value equivalent to 100% for each nutrient based on both 2,000 and 2,500 calorie diet. For instance, this Ben&Jerry ice-cream nutrition label indicates that there are 2 grams of dietary fiber per serving. For a 2000-calorie diet, a person needs 25 grams (100% DV) of dietary fiber per day. Since 2 grams of fiber is 8% DV, a person still needs 23 more grams (92% DV) of fiber need to maintain a 2000-calorie diet.</p><br><div class='img-container'><img src='/footnotes.png'/><span class='subscribe'>U.S. Food and Drug Administration, FDA. Image of Footnotes “Labeling & Nutrition -How to Understand and Use the Nutrition Facts Label.” US Food and Drug Administration Home Page, Center for Drug Evaluation and Research, 1 Mar. 2018, www.fda.gov/food/labelingnutrition/ucm274593.htm.</span></div><br><p>Each country has its own nutrition guideline. Although similar to DV, these guidelines might be called differently. For instance, in Thailand, the guideline is called Thai Recommended Intake (Thai RDI).</p>"
+        }
+    },
+    "popupFat": {
+        "label": {
+            "totalFat": {
+                "left": {
+                    "th": "<b>ไขมันทั้งหมด</b> 20 ก.",
+                    "en": "<b>Total Fat</b> 20 g"                    
+                },
+                "right": "<b>31</b>%"
+            },
+            "satFat": {
+                "left": {
+                    "th": "ไขมันอิ่มตัว 11 ก.",
+                    "en": "Saturated Fat 11 g"                    
+                },
+                "right": "<b>55</b>%"
+            },
+            "transFat": {
+                "left": {
+                    "th": "ไขมันทรานส์ 0 ก.",
+                    "en": "Trans Fat 0 g"                    
+                },
+                "right": ""
+            },
+            "cholesterol": {
+                "left": {
+                    "th": "<b>โคเลสเตอรอล</b> 50  มก.",
+                    "en": "<b>Cholesterol</b> 50  mg"
+                },
+                "right": "<b>17</b>%"
+            }        
+        },
+        "description": {
+            "th": "<h2>ไขมันทั้งหมด + ไขมันอิ่มตัว + ไขมันไม่อิ่มตัว + คอเลสเตอรอล</h2><p><b>ไขมันทั้งหมด</b> เป็นค่ารวมของไขมันทุกชนิด : อิ่มตัว ไม่อิ่มตัว ไขมันทรานส์</p><br><p>ก่อนที่จะทำความรู้จักกับไขมันแต่ละชนิด เราควรมาทำความรู้จักกับคอเรสเตอรอลกันก่อน คอเรสเตอรอล เป็นโมเลกุลชนิดหนึ่งของไขมัน คอเรสเตอรอลแบ่งเป็น 2 ชนิด ชนิดที่ดี คือ HDL (High-Density Lipoprotein) ชนิดที่ไม่ดีต่อสุขภาพ คือ LDL (Low Density Lipoprotein) มักพบในอาหารที่มีไขมันอิ่มตัวและไขมันทรานส์ เมื่อรับประทานเข้าไปมากๆจะทำให้ส่งผลให้เกิดโรคหลอดเลือดหัวใจ ช่วยได้โดยการรับประทานไขมันดีอย่าง HDL เข้าไปเพื่อช่วยป้องกันการเกิดโรคหัวใจได้</p><br><b>ตัวอย่างอาหารที่มีไขมันอิ่มตัว</b> <ol> <li>ผลิตภัณฑ์จากนม : มายองเนส ชีส ไอศกรีม นมเต็มมันเนย</li><li>เนื้อแดง : เนื้อวัว เนื้อหมู</li><li>โปรตีนที่มีไขมันน้อย : สัตว์ปีก กุ้ง หอย</li><li>อาหารแปรรูป : ไส้กรอก ขนมปัง อาหารกระป๋อง อาหารสำเร็จรูป พิซซ่า</li><li>ผลิตภัณฑ์จากพืช : น้ำมันปาล์ม น้ำมันมะพร้าว มะพร้าว น้ำมันเมล็ดในปาล์ม เนยโกโก้ (ในช็อคโกแลต)</li></ol> <br><p><b>ไขมันทรานส์</b> ส่งผลร้ายกว่าไขมันอิ่มตัว เพราะไม่เพียงแค่ลดไขมันดี HDL เท่านั้นยัง เพิ่มปริมาณไขมันเลว LDL ในร่างกายอีกด้วย อาหารที่มีไขมันทรานส์ได้แก่</p><ol><li>ขนมอบ : เค้ก คุกกี้ ขนมปังกรอบ ไอซิ่ง</li><li>อาหารทอด : มันฝรั่งแผ่นทอด เฟรนช์ฟราย</li><li>เนยเทียม</li><li>อาหารฟาสฟู้ด : แฮมเบอร์เกอร์ พิซซ่า </li></ol><br><p>เพื่อหลีกเลี่ยงไขมันทรานส์ หาคำว่า ‘hydrogenated’ หรือ ‘shortening’ ที่อธิบายกระบวนการเกิดไขมันทรานส์ในส่วนประกอบบนฉลาก</p><br><p>ส่วนไขมันไม่อิ่มตัวนั้น มีประโยชน์ต่อร่างกายเพราะให้ไขมันดีอย่าง HDL สามารถพบได้ในผัก ถั่วและเมล็ดพืช ไขมันไม่อิ่มตัวมีอยุ่ 2 ชนิด คือ ไขมันอิ่มตัวเชิงเดี่ยวและไขมันอิ่มตัวเชิงซ้อน</p><ol><li><b>ไขมันไม่อิ่มตัวเชิงเดี่ยว</b> <ul> <li>มะกอก ถั่วลิสง น้ำมันคาโนลา</li><li>อโวคาโด</li><li>ถั่ว : อัลมอนด์ เฮเซลนัท พีแคน</li><li>เมล็ดพืช : ฟักทอง งา</li></ul> </li><li><b>ไขมันไม่อิ่มตัวเชิงซ้อน</b> <ul> <li>เมล็ดดอกทานตะวัน ข้าวโพด ถั่วเหลือง น้ำมันเมล็ดแฟล็กซ์ </li><li>วอลนัท</li><li>เมล็ดแฟล็กซ์</li><li>ปลา : แมคคาเรล แซลมอน ซาดีน</li></ul> </li></ol> <br><p>การรับประทานไขมันไม่อิ่มตัวมากขึ้น จะช่วยลดความเสี่ยงการเกิดโรคหัวใจ ดังนั้นควรเลือกอาหารที่มีปริมาณของไขมันไม่อิ่มตัวมากกว่าไขมันอิ่มตัวและไขมันทรานส์</p><br><p>ตัวอย่าง ไอศกรีมมีพลังงานจากไขมัน 180 แคลอรี่ต่อการรับประทาน 1 ครั้ง ไขมันรวม 20 กรัม และเป็นไขมันอิ่มตัว 11 กรัม เราสามารถคำนวณได้ว่า 99 แคลอรี่ได้จากไขมันอิ่มตัว เนื่องจากไม่มีไขมันทรานส์ในผลิตภัณฑ์นี้ แคลอรี่ที่เหลือจึงเป็นไขมันไม่อิ่มตัวซึ่งมีอยู่ 81 แคลอรี่</p><br><p>ตัวอย่างการคำนวณสำหรับไขมันอิ่มตัว 11/20 x 180 = 99 แคลอรี่</p>",
+            "en": "<h2>Total Fat + Saturated Fat + Unsaturated fat + Cholesterol</h2><p><b>Total Fat</b> is information for all types of fats: saturated, unsaturated and trans fat.</p><br><p>Before going to explore more about each type of fats, let’s take a second to learn about cholesterol. Cholesterol is a type of lipid molecules. Two types of cholesterol are Low-Density Lipoprotein (LDL), unhealthy cholesterol, and High-Density Lipoprotein (HDL), healthy cholesterol. LDL is found in food containing saturated fat and trans fat. Consuming too much LDL can lead to atherosclerosis (coronary heart disease). HDL is found in unsaturated fat, and consuming this type of fat helps lower LDL which helps protect against heart attack.</p><br><b>Here are some examples that contain saturated fat:</b><ol> <li>Dairy products: mayonnaise, cheese, ice-cream, whole-milk/full dairy milk</li><li>Red meats: beef, pork</li><li>Lean protein: poultry, shrimp, shellfish</li><li>Processed food: sausage, bread, canned foods, and prepackaged food, pizza</li><li>Vegetable/plant food: palm oil, coconut oil, coconut, palm kernel oil, cocoa butter (chocolate)</li></ol><br><p><b>Trans fat</b> is even worse than saturated fat because not only it increases LDL, it also lowers HDL. The following food contains trans fat:</p><ol> <li>Baked goods (contain the most trans fat): cakes, cookies, crackers, icings</li><li>Fried food: chips, french fries</li><li>Stick margarine</li><li>Takeaway foods (hamburgers, pizza) </li></ol><br><p>To avoid trans fat, look for words such as ‘hydrogenated’ or ‘shortening’, which describes processes that make trans fat in the ingredient labels.</p><br><p>As for unsaturated fat, it is very healthy for our body because it raises HDL. They can be found mainly from vegetables, nuts, and seeds. Two types of unsaturated fat can be found, Monounsaturated and Polyunsaturated. Below is the list of foods for each type of unsaturated fats:</p><ol> <li><b>Monounsaturated fats</b> <ul> <li>Olive, peanut, and canola oils</li><li>Avocados</li><li>Nuts: almonds, hazelnuts, and pecans</li><li>Seeds: pumpkin and sesame seeds</li></ul> </li><li><b>Polyunsaturated fat</b> <ul> <li>Sunflower, corn, soybean, and flaxseed oils</li><li>Walnuts</li><li>Flax seeds</li><li>Fish: Mackerel, salmon, Sardines </li></ul> </li></ol><br><p>Eating more unsaturated fat help reduce your risk of heart disease, therefore try to choose food that contains higher unsaturated fat than saturated or trans fat.</p><br><p>From our example, the ice-cream contains 180 calories from fat per serving. The total fat is 20g, and 11g of that is saturated fat. From this, we can calculate that 99 calories are from saturated fat. Since there is no trans fat in this product, the remaining calorie fat is for unsaturated fat which is about 81 calories.</p><br><p>Sample calculation of calories for saturated fat: 11/20 x 180 = 99 cal</p>"
+        }
+    },
+    "popupSodium": {
+        "label": {
+            "left": {
+                "th": "<b>โซเดียม</b> 55 มก.",
+                "en": "<b>Sodium</b> 55 mg"
+            },
+            "right": "<b>2</b>%"
+        },
+        "description": {
+            "th": "<h2>โซเดียม</h2><p>โซเดียมสามารถพบได้ในอาหารทั่วไป ประชากรในเมืองจึงไม่ค่อยกังวลเกี่ยวกับการขาดโซเดียม แต่การบริโภคโซเดียมมากเกินไปเป็นปัญหาที่น่าเป็นห่วงมากกว่า เพราะว่าโซเดียมที่มากเกินจะสามารถเพิ่มความดันโลหิต ซึ่งก่อให้เกิดความเสี่ยงต่อโรคหัวใจ โรคหลอดเลือดสมอง กระดูกเสื่อม โรคไต มะเร็งกระเพาะอาหาร ปริมาณโซเดียมที่แนะนำต่อวันของสากลและไทยคือน้อยกว่า 2400 มิลลิกรัมต่อวัน</p><br><p>รูปแบบของโซเดียมส่วนใหญ่จะอยู่ในรูปของเกลือ (โซเดียมคอไรด์) ในรูปแบบอื่นเช่น เบกกิ้งโซดา ผงฟู และผงชูรส ซึ่งมีปริมาณโซเดียมอยู่สูง</p>อาหารที่มีปริมาณโซเดียมสูง :<br><ol> <li>พิซซ่า</li><li>ชีส</li><li>เบอริโต้ ทาโก้</li><li>อาหารกระป๋อง</li><li>ซอสมะเขือเทศ</li></ol>",
+            "en": "<h2>Sodium</h2><p>Sodium can be widely found in the food supply, so usually, the urban population doesn’t have to worry about sodium deficiency. Rather, overconsumption of sodium is a more immediate concern. Too much salt intake can increase blood pressure, which increases the risk of heart disease and stroke, bone loss, kidney disease, and stomach cancer. The DV and Thai RDI suggest consumption of less than 2,400mg per day.</p><br><p>The most common form of sodium is salt (Sodium Chloride). Other foods such as baking soda, baking powder, and MSG contain high sodium as well.</p>Food that contains high sodium include:<br><ol> <li>Pizza</li><li>Cheese</li><li>Burritos and Tacos</li><li>Canned food</li><li>Tomato sauce</li></ol>"
+        }
+    },
+    "popupCarbohydrate": {
+        "label": {
+            "carbohydrate": {
+                "left": {
+                    "th": "<b>คาร์โบไฮเดรตทั้งหมด</b> 28 ก.",
+                    "en": "<b>Total Carbohydrate</b> 28 g"
+                },
+                "right": "<b>9</b>%"    
+            },
+            "fiber": {
+                "left": {
+                    "th": "ใยอาหาร 2 ก.",
+                    "en": "Dietary Fiber 2 g"
+                },
+                "right": "<b>8</b>%"    
+            },
+            "sugar": {
+                "left": {
+                    "th": "น้ำตาล 25 ก.",
+                    "en": "Sugars 25 g"
+                },
+                "right": ""    
+            }
+        },
+        "description": {
+            "th": "<h2>คาร์โบไฮเดรต + ใยอาหาร + น้ำตาล</h2><p>แหล่งพลังงานหลักของร่างกายเรามาจากคาร์โบไฮเดรต ประเภทของคาร์โบไฮเดรต ได้แก่ เส้นใยอาหาร น้ำตาลและแป้ง ปริมาณที่แนะนำต่อวันสำหรับคาร์โบไฮเดรต (Thai RDA and DV) : 300 กรัม</p><br><b>เส้นใยอาหาร</b><br><p>ใยอาหารเป็นคาร์โบไฮเดรตชนิดหนึ่ง ที่ช่วยในระบบย่อยอาหาร เนื่องจากเอนไซม์ในระบบย่อยอาหารของคนเราไม่สามารถย่อยใยอาหารได้ จึงช่วยทำให้เราขับถ่ายได้ ดี ลดปัญหาท้องผูก อีกทั้งยังช่วยลดคอเรสเตอรอลและความเสี่ยงของโรคเบาหวาน</p><br><b>ปริมาณที่แนะนำต่อวัน</b>: 25 กรัม<br><br><b>แหล่งที่ดีของไฟเบอร์</b><br><ol> <li>อัลมอนด์</li><li>ถั่ว</li><li>ชมพู่</li><li>กล้วย</li><li>มะละกอ</li></ol><br><b>น้ำตาล</b><p>น้ำตาลเป็นคาร์โบไฮเดรตทั่วไป น้ำตาลที่แสดงในตารางมีสองประเภทคือน้ำตาลที่เติมเข้าไปและน้ำตาลที่มีอยู่ในธรรมชาติ</p><br><p>น้ำตาลที่เติมเข้าไปจะให้พลังงานแก่ร่างกาย แต่มันจะอยู่ในช่วงเวลาสั้น ๆ ในร่างกาย นอกจากนี้การเติมน้ำตาลอาจทำให้สมองหลั่งสารโดปามีนซึ่งเป็นสารเคมีที่ทำให้มีความสุข จึงอาจทำให้เกิดการอยากหวานเพิ่มขึ้น อย่างไรก็ตามการกินน้ำตาลมากเกินไปนำไปสู่โรคหัวใจวาย โรคหัวใจและโรคหลอดเลือดสมอง นอกจากนี้ปริมาณน้ำตาลที่สูงยังส่งผลต่อการทำงานของตับและตับอ่อน ซึ่งอาจนำไปสู่โรคเบาหวานประเภทที่ 2 อาหารที่มักเติมน้ำตาลเพิ่มเข้าไป เป็นพวกเครื่องดื่มหวาน ลูกอม ขนมอบและนมที่มีรสหวาน</p><br><p>ส่วนน้ำตาลธรรมชาตินั้นสามารถพบได้ในผลไม้ (องุ่น, มะม่วง, เชอร์รี่, กล้วย), ผัก (มันเทศ, หัวบีท, แครอท, มะเขือเทศ) และนม</p><br><p>ชื่ออื่นๆของน้ำตาลที่เติมเข้าไปนั้น ได้แก่ ซูโครส, น้ำเชื่อมข้าวโพด, น้ำเชื่อมข้าวโพดชนิดฟรุคโตสสูง, น้ำผลไม้เข้มข้น มอลโตส, เดกซ์โทรส, ซูโครส, น้ำผึ้งและน้ำเชื่อมเมเปิ้ล</p><br><p>สำหรับน้ำตาลที่เติมเข้าไปนั้น ค่าที่แนะนำสำหรับผู้หญิงไม่ควรเกิน 6 ช้อนชา (25 กรัม) ต่อวัน ส่วนผู้ชายไม่ควรเกิน 9 ช้อนชา (38 กรัม) ต่อวัน</p>",
+            "en": "<h2>Carbohydrate + Dietary Fiber + Sugar </h2><p>Our body’s main source of energy comes from carbohydrate. Types of carbohydrate include dietary fiber, sugar and starch. Thai RDA and DV: 300 grams</p><br><b>Dietary Fiber</b><br><p>Dietary fiber is a type of carbohydrate that helps in digestion. Human digestive enzymes cannot break down this nutrient, therefore, consuming help in constipation problem. Eating high fibre also reduce cholesterol and the risk of diabetes.</p><br><b>Thai RDI</b>: 25 g<br><br><b>Good Source of Fiber</b><br><ol> <li>Almonds</li><li>Beans</li><li>Rose apple</li><li>Banana</li><li>Papaya</li></ol><br><b>Sugar</b><p>Sugars are simple carbohydrate. There are two types of sugar: added sugar and natural sugar.</p><br><p>The added sugar provide energy for your body, but it lasts a short period of time in the body. Moreover, added sugar can cause your brain to release Dopamine, a chemical that makes you happy, which increases its addictiveness. Also, eating too much sugar can lead to heart attack, heart disease, and stroke. Additionally, a high dose of sugar affects liver and pancreas functions which can lead to type 2 diabetes. Added sugar is commonly found in sugary drinks, candy, baked goods, and sweetened dairy.</p><br><p>In contrast, natural sugar can be found in fruits (Grapes, Mango,Cherries,Banana), veggie (sweet potato, beets, carrots, tomato) and milk.</p><br><p>Other name for added sugar are sucrose (sugar), corn syrup, high-fructose corn syrup, fruit juice concentrate, maltose, dextrose, sucrose, honey, and maple syrup.</p><br><p>For added sugar, it is recommended that women shouldn’t consume more than 6 teaspoons (25 grams) and men shouldn’t consume more than 9 teaspoons (38 grams) per day.</p>"
+        }
+    },
+    "popupProtein": {
+        "label": {  
+            "th": "<b>โปรตีน</b> 5 ก.",
+            "en": "<b>Proteins</b> 5 g"
+        },
+        "description": {
+            "th": "<h2>โปรตีน</h2><p>โปรตีนเป็นส่วนประกอบหลักของเซลล์ในร่างกายและเป็นส่วนประกอบสำคัญของกล้ามเนื้อ กระดูกอ่อน ผิวหนังและเลือด ร่างกายใช้โปรตีนเพื่อซ่อมแซมเนื้อเยื่อ สร้างเอนไซม์ ฮอร์โมนและสารเคมีอื่น ๆ ในร่างกาย นักกีฬาและเทรนเนอร์ ควรเพิ่มการบริโภคโปรตีนมากกว่าคนทั่วไป</p><br><b>ปริมาณที่แนะนำต่อวัน</b> : 50 กรัม<br><br><b>แหล่งโปรตีนที่ดี</b><br><ol> <li>ไข่</li><li>ถั่ว</li><li>อาหารทะเล</li><li>ถั่วเหลือง</li><li>เนื้อสัตว์</li></ol>",
+            "en": "<h2>Protein</h2><p>Protein is a main component of cells in our bodies, and it is an important building block of muscles, cartilage, skin, and blood. Your body uses protein to repair tissues, make enzymes, hormones, and other body chemicals. Athletes and weight trainers should increase consumption of protein than non-athletes.</p><br><b>Thai RDI</b> : 50 grams<br><br><b>Good sources:</b><br><ol> <li>Eggs</li><li>Beans</li><li>Seafood</li><li>Soy</li><li>Meat</li></ol>"
+        }
+    },
+    "popupVitamin": {
+        "label": {
+            "A": {
+                "left": {
+                    "th": "วิตามินเอ",
+                    "en": "Vitamin A"
+                },
+                "right": "8%" 
+            },
+            "C": {
+                "left": {
+                    "th": "วิตามินซี",
+                    "en": "Vitamin C"
+                },
+                "right": "0%" 
+            }
+        },
+        "description": {
+            "th": "<h2>วิตามินเอและซี</h2><p>ทั้งวิตามิน A และ C ต่างก็เป็นสารต้านอนุมูลอิสระที่จำเป็นต่อร่างกาย ช่วยต่อต้านสารอนุมูลอิสระที่ทำให้ร่างกายเสื่อมเสีย อนุมูลอิสระเกิดขึ้นตามธรรมชาติเมื่อร่างกายของเราย่อยอาหารหรือเมื่อสัมผัสกับควันหรือรังสีหากไม่มีสารต้านอนุมูลอิสระที่ไปยับยั้งการเกิดกระบวนการเหล่านั้น อนุมูลอิสระจะทำให้เกิดความเสียหายต่อเซลล์และนำไปสู่โรคต่างๆเช่นโรคมะเร็งและโรคหัวใจ</p><br><b>วิตามินเอ</b><br><p>วิตามินเอเป็นสิ่งจำเป็นสำหรับการมองเห็นที่ดีเพราะช่วยปกป้องสุขภาพดวงตา นอกจากนี้ยังช่วยให้ผิวเปล่งปลั่งและเพิ่มประสิทธิภาพการทำงานของระบบประสาท การขาดวิตามินเอสามารถนำไปสู่การตาบอดในเวลากลางคืน ผิวสะเก็ด การเจริญเติบโตไม่เติมที่ทำให้เกิดลักษณะแคระแกรน อย่างไรก็ตามการได้รับวิตามินเอมากเกินไปอาจทำให้เกิดผลเสียสำหรับหญิงตั้งครรภ์และทำให้ตับมีปัญหา</p><br><b>แหล่งของวิตามินเอ</b><br><ol> <li>มันหวาน</li><li>ตับอ่อน</li><li>ป๋วยเล้ง</li><li>แครอท</li><li>ไข่แดง</li></ol><br><b>ปริมาณที่แนะนำต่อวัน</b> 800 ไมโกรกรัม (เทียบเท่าเรตินอล)<br><br><b>วิตามินซี</b><p>วิตามินซีเป็นสารอาหารที่สำคัญสำหรับการเจริญเติบโต กระบวนการซ่อมแซมร่างกายและการบำรุงรักษากระดูกอ่อน กระดูกและฟัน ช่วยป้องกันการเกิดระบบภูมิคุ้มกันบกพร่องและรักษาแผล</p><br><b>แหล่งที่ดีของวิตามินซี (ผักและผลไม้)</b><br><ol> <li>ส้ม</li><li>ฝรั่ง</li><li>มะม่วง</li><li>ดอกกะหล่ำ</li><li>กะหล่ำปลี</li></ol><br><b>ปริมาณที่แนะนำต่อวัน</b> 60 มก<br>",
+            "en": "<h2>Vitamin A and C</h2><p>Both Vitamins A and C are antioxidants which are essential for our health because these nutrients counteract free radicals’ damaging effects. Free radicals occur naturally when our bodies break down food or when exposed to smoke or radiation. If their activities do not get dampened by antioxidants, radicals cause damages to cells and contribute to diseases like cancer and heart disease.</p><br><b>Vitamin A</b><br><p>Vitamin A is essential for good vision because it helps protect eye health. Additionally, this vitamin keeps skin glowing and improves neurological function. Deficiency of Vitamin A can leads to night blindness, scaly skin, stunted growth. However, overdoing can leads to birth defects for pregnant women and liver problems.</p><br><b>Good Sources of Vitamin A</b><br><ol> <li>Sweet potato</li><li>Beef Liver</li><li>Spinach</li><li>Carrots</li><li>Egg yolks</li></ol><br><b>Thai RDI :</b> 800 μg RE (retinol equivalent)<br><br><b>Vitamin C</b><p>Vitamin C is an important nutrient for growth, healing process and maintenance of cartilage, bones, and teeth. It helps protect against immune system deficiencies and heal wounds.</p><br><b>Good sources of vitamin C (vegetable and fruits)</b><br><ol> <li>Oranges</li><li>Guava</li><li>Mango</li><li>Cauliflower</li><li>Brussel sprouts</li></ol><br><b>Thai RDI :</b> 60 mg<br>"
+        }
+    },
+    "popupCalcium": {
+        "label": {
+            "left": {
+                "th": "แคลเซียม",
+                "en": "Calcium"
+            },
+            "right": "10%" 
+    },
+        "description": {
+            "th": "<h2>แคลเซียม</h2><p>แคลเซียมมีบทบาทสำคัญในการทำงานของกล้ามเนื้อหัวใจและเส้นประสาท แคลเซียมช่วยรักษากระดูกให้แข็งแรง มีผลต่อการเจริญเติบโตของกระดูก จังหวะการเต้นของหัวใจและการทำงานของกล้ามเนื้อ</p><br><b>ปริมาณที่แนะนำต่อวัน</b> 800 มก<br><br><b>แหล่งของแคลเซียม (ผักและผลไม้)</b><br><ol> <li>นม</li><li>โยเกิร์ต</li><li>ผลิตภัณฑ์ถั่วเหลือง</li><li>อัลมอนด์</li><li>บร็อคโคลี่ / คะน้า (หรือผักใบเขียวอื่น ๆ)</li></ol>",
+            "en": "<h2>Calcium</h2><p>Calcium plays an essential role in heart, muscle, and nerve functions. Calcium helps to maintain strong bones, bone growth, heart rhythm, and muscle function.</p><br><b>Thai RDI :</b> 800 mg<br><br><b>Good sources (vegetable and fruits)</b><br><ol> <li>Milk</li><li>Yogurt</li><li>Soy product</li><li>Almond</li><li>Broccoli/Kale (or other green leafy vegetables)</li></ol>"
+        }
+    },
+    "popupIron": {
+        "label": {
+            "left": {
+                "th": "เหล็ก",
+                "en": "Iron"
+            },
+            "right": "15%" 
+        },
+        "description": {
+            "th": "<h2>เหล็ก</h2><p>ธาตุเหล็กช่วยลำเลียงออกซิเจนไปทั่วร่างกายโดยเฉพาะสมองและกล้ามเนื้อ ปริมาณออกซิเจนแค่เพียงพอสามารถทำให้คุณอ่อนเพลีย อ่อนแอและเหนื่อยล้า ธาตุเหล็กช่วยเสริมกระบวนการรับรู้ของร่างกายให้ปริมาณออกซิเจนที่เพียงพอต่อสมอง เหล็กยังช่วยเสริมสร้างความแข็งแรงของกล้ามเนื้อ โดยเหล็กจะเก็บออกซิเจนไว้ในกล้ามเนื้อเมื่อต้องการเคลื่อนไหว ดังนั้นธาตุเหล็กจึงมีความจำเป็นมากสำหรับผู้ที่ออกกำลังกายอย่างหนัก นอกจากนี้ธาตุเหล็กมีความสำคัญมากสำหรับหญิงตั้งครรภ์ เพื่อให้แน่ใจว่าทารกในครรภ์ได้รับออกซิเจนเพียงพอ</p><br><b>แหล่งของธาตุเหล็ก (ผักและผลไม้)</b><br><ol> <li>เนื้อ</li><li>ตับ</li><li>ผักโขม</li><li>พืชตระกูลถั่ว (ถั่ว)</li><li>ดาร์กช็อกโกแลต</li></ol><br><b>ปริมาณที่แนะนำต่อวัน</b> : 15 มก<br>",
+            "en": "<h2>Iron</h2><p>Iron helps transport oxygen throughout the body, especially for your brain and muscle. Sufficient oxygen supply can make you become fatigued, weak and tired. Iron improves your cognitive function because it helps to carry enough oxygen to the brain. Iron also helps strengthen the muscle because it stores oxygen in the muscle which requires for movement. Therefore, a high amount of Iron is needed after a hard workout. Besides, iron is very important for pregnant women to ensure that the fetus is supplied with enough oxygen.</p><br><b>Good sources (vegetable and fruits)</b><br><ol> <li>Beef</li><li>Liver</li><li>Spinach</li><li>Legumes (lentils)</li><li>Dark chocolate</li></ol><br><b>Thai RDI :</b> 15 mg<br>"
+        }
+    }
+}
